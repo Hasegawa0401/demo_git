@@ -2,4 +2,4 @@ def greeting(name):
     print("Hello", name)
 
 
-greeting("World")  # memo
+greeting("World")
